@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "mttv2543",
+    "DB_PASSWORD": "I5HxepbvPUUZsVcO",
+    "DB_NAME": "Exercises",
+    "JWT_KEY": "superscret_dont_share"
+  }
+}
